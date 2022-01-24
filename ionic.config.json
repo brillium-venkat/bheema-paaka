@@ -1,0 +1,7 @@
+{
+    "name": "Bheema Paaka",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "angular"
+}
